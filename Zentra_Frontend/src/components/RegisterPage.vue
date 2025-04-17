@@ -1,6 +1,5 @@
 <template>
     <div class="container-fluid">
-        <!-- Header --> CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
         <div class="row">
             <div class="col-12 d-flex justify-content-between align-items-center p-3 bg-light shadow-sm">
                 <div class="d-flex align-items-center">
